@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "name": "autoReload",
+    "description": {
+        "zh_tw": "自動加載"
+    },
+    "commands": [],
+    "author": [
+        "whes1015"
+    ],
+    "dependencies": {
+        "BMPR": ">=1.0.0",
+        "ExpTechLib": ">=1.0.0"
+    },
+    "resources": [
+        "AGPL-3.0"
+    ],
+    "link": "https://github.com/ExpTechTW/B-MPR"
+}
