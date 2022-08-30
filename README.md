@@ -4,6 +4,7 @@
 ------
 
 - 在文件變更時自動重載插件
+- 將 autoReload.bmpr 放在 Plugin 資料夾底下 完成安裝
 - ![image](https://user-images.githubusercontent.com/44525760/187480041-0ac1c134-027f-4b74-b321-0aefdd318a91.png)
 
 ## 索引
