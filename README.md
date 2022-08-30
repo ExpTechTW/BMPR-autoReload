@@ -4,7 +4,7 @@
 ------
 
 - 在文件變更時自動重載插件
-![image](https://user-images.githubusercontent.com/44525760/187480041-0ac1c134-027f-4b74-b321-0aefdd318a91.png)
+- ![image](https://user-images.githubusercontent.com/44525760/187480041-0ac1c134-027f-4b74-b321-0aefdd318a91.png)
 
 ## 索引
 - [貢獻者](#貢獻者)
